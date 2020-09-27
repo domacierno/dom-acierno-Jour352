@@ -2,8 +2,9 @@
 
 BODY{
   font-family: 'Open Sans', Arial, sans-serif;
-color: #444
+color: #444;
 font-weight: 400;
+font-size: 1em;
 }
 /* banner name at top */
 h1{
