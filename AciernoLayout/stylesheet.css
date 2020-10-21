@@ -1,0 +1,79 @@
+#content{
+  margin: 0 auto;
+  width:900px;
+  font-family: georgia, serif;
+  font-size: 13px;
+}
+
+#masthead{
+  font-type:serif;
+  font-size: 100px;
+  color:black;
+  border: 15px;
+  padding: 20px;
+  background-color: red;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+h1{
+  font-family: helvetica, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-style: italic;
+}
+
+#byline{
+  font-family: helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+blockquote{
+  font: 18px serif, sans-serif;
+  font-style:oblique;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 500px;
+  margin-left: -10px;
+  color: red;
+  border-right: 10px solid #ccc;
+  border-left: 10px solid #ccc;
+  padding-left: 5px;
+  background-color: #ccc;
+}
+
+h2{
+  margin-left: 250px;
+}
+
+ul{
+  margin-left: 250px;
+}
+
+#woman{
+  margin-left: 250px;
+  margin-bottom: 15px;
+}
+
+#earth{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#dishes{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+
+#graphic{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: left;
+}
