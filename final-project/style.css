@@ -1,0 +1,178 @@
+.phrase{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin: 0 auto;
+    margin-top: -35px;
+    font-size: 20px;
+}
+
+.title-main{
+  position: absolute;
+  top: 30%;
+  font-size: 4em;
+  font-weight: bold;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hero{
+  opacity: .5;
+  width: 100%;
+}
+
+nav{
+  color: #f6d55c;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: .5em;
+}
+
+.dropdown-item{
+  color: #20639b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+  font-family:'Montserrat', sans-serif;
+  font-size: 1.5em;
+  color: #20639b;
+}
+
+#headline{
+  font-size: 4em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#byline{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+p{
+  font-size: 1.25em;
+  font-family: Georgia, serif;
+  line-height: 180%
+}
+
+.chapter{
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: : 15px;
+}
+
+h1{
+  font-size: 1.5em;
+  border: 3px solid #20639b;
+  padding: 10px;
+}
+
+h2{
+  color:#20639b;
+  margin-top: 60px;
+}
+
+#mentions{
+  font-style: italic;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pull-quote{
+  text-align: center;
+}
+
+blockquote{
+  font-family: Georgia, serif;
+  font-size: 1.5em;
+  font-style: italic;
+  width: 500px;
+  margin: 0.25em 0;
+  padding: 1em 40px;
+  line-height: 1.45;
+  position:relative;
+  color: black;
+  display: inline-block;
+}
+
+blockquote::before{
+  font-family: Georgia, serif;
+    position: absolute;
+    font-size: 6em;
+    line-height: 1;
+    top: 0;
+    left: -20px;
+    content: "\201C";
+    color: #ed553b;
+}
+
+blockquote::after{
+  font-family: Georgia, serif;
+    position: absolute;
+    float:right;
+    font-size:6em;
+    line-height: 1;
+    right:50;
+    bottom:-0.5em;
+    content: "\201D";
+    color:#ed553b;
+}
+
+h3{
+  color: #999999;
+  font-size: 14px;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.graphics{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-container{
+  position: relative;
+}
+
+.hero-image{
+  width: 100%;
+}
+
+}
+
+h4{
+  font-weight: 200px;
+  text-align: center;
+}
+
+
+.red{
+  color: #ed553b;
+}
+
+a:link{
+  font-style: italic;
+}
+
+a:visited{
+  color: #ed553b;
+}
+
+a:hover{
+  color: #f6d55c;
+}
+
+@media (max-width:900px) {
+  .title-main{
+    font-size: 2em;
+  }
+}
